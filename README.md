@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello there. 👋 Welcome to my Profile!
+I'm Srujan a developer, student and learner!  
+
+- 🔭 I’m currently working on multiple projects. One of them is a Cloud based Air Quality Visualization Platform. Working on some more stuff, but they're a secret 🤫 for now!
+- 🌱 I’m currently learning React, MongoDB, Django and Electron! Have to say, Python and JavaScript are the best 😎
 
 <!--
 **srujandeshpande/srujandeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
