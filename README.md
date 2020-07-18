@@ -1,8 +1,11 @@
-## Hello there. 👋 Welcome to my Profile!
-I'm Srujan a developer, student and learner!  
+## Hello there. Welcome to my Profile! 👋 
+I'm Srujan a developer, student and perpectual learner. Check out my portfolio [here](https://srujandeshpande.tech)!
 
-- 🔭 I’m currently working on multiple projects. One of them is a Cloud based Air Quality Visualization Platform. Working on some more stuff, but they're a secret 🤫 for now!
-- 🌱 I’m currently learning React, MongoDB, Django and Electron! Have to say, Python and JavaScript are the best 😎
+- 🔭  I’m currently working on multiple projects. One of them is a Cloud based Air Quality Visualization Platform. Working on some more stuff, but they're a secret 🤫 for now!
+- 🌱  I’m currently learning React, MongoDB, Django and Electron! Have to say, Python and JavaScript are the best 😎
+- 💬 Ask me anything about Flask, MongoDB, DevOps, Blockchain and Google Cloud Platform. They're my favourite!
+- 📫 How to reach me: Shoot an email to srujan@deshpande.tech!
+- ⚡ Fun fact: I've been coding _every single day_ for the last **17 weeks**. It's great fun!
 
 <!--
 **srujandeshpande/srujandeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
