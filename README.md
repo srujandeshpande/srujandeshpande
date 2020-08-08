@@ -1,5 +1,5 @@
 ## Hello there. Welcome to my Profile! 👋 
-I'm Srujan a developer, student and perpectual learner. Check out my portfolio [here](https://srujandeshpande.tech)!
+I'm Srujan, a Microsoft Learn Student Ambassador and perpectual learner. Check out my portfolio [here](https://srujandeshpande.tech)!
 
 - 🔭  I’m currently working on multiple projects. One of them is a Cloud based Air Quality Visualization Platform. Working on some more stuff, but they're a secret 🤫 for now!
 - 🌱  I’m currently learning React, MongoDB, Django and Electron! Have to say, Python and JavaScript are the best 😎
