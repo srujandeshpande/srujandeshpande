@@ -6,6 +6,7 @@ I'm Srujan, a Microsoft Learn Student Ambassador and perpectual learner. Check o
 - 💬 Ask me anything about Flask, MongoDB, DevOps, Blockchain and Google Cloud Platform. They're my favourite!
 - 📫 How to reach me: Shoot an email to srujan@deshpande.tech!
 
+[![Srujan's github stats](https://github-readme-stats.vercel.app/api?username=srujandeshpande&count_private=true&show_icons=true&theme=radical)](https://github.com/srujandeshpande/github-readme-stats)
 
 <!--
 **srujandeshpande/srujandeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
