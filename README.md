@@ -3,7 +3,7 @@ I'm Srujan, a Microsoft Learn Student Ambassador and perpectual learner. Check o
 
 - 🔭  I’m currently working on multiple projects. One of them is a Cloud based Air Quality Visualization Platform. Working on some more stuff, but they're a secret 🤫 for now!
 - 🌱  I’m currently learning React, MongoDB, Django, Electron and Kubernetes! Have to say, Python and JavaScript are the best 😎
-- 💬 Ask me anything about Flask, MongoDB, DevOps, Blockchain and Google Cloud Platform. They're my favourite!
+- 💬 Ask me anything about Flask, FastAPI, MongoDB, DevOps, Blockchain and Google Cloud Platform. They're my favourite!
 - 📫 How to reach me: Shoot an email to srujan@deshpande.tech!
 
 [![Srujan's github stats](https://github-readme-stats.vercel.app/api?username=srujandeshpande&count_private=true&show_icons=true&theme=radical)](https://github.com/srujandeshpande/github-readme-stats)
