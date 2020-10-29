@@ -1,5 +1,5 @@
 ## Hello there. Welcome to my Profile! 👋 
-I'm Srujan, a Microsoft Learn Student Ambassador and perpectual learner. Check out my portfolio [here](https://srujandeshpande.tech)!
+I'm Srujan, a Microsoft Learn Student Ambassador and perpetual learner. Check out my portfolio [here](https://srujandeshpande.tech)!
 
 - 🔭  I love working with Cloud Technologies and DevOps!
 - 🌱  I’m currently learning React, MongoDB, Django, Electron and Kubernetes! Have to say, Python and JavaScript are the best 😎
