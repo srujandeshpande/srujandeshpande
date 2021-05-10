@@ -1,4 +1,6 @@
 ## Hello there. Welcome to my Profile! 👋 
+<img src="https://komarev.com/ghpvc/?username=srujandeshpande&style=flat-square" alt="srujandeshpande" /><br>
+
 I'm Srujan, a Microsoft Learn Student Ambassador and perpetual learner. Check out my portfolio [here](https://srujandeshpande.tech)!
 
 - 🔭  I love working with Cloud Technologies and DevOps!
