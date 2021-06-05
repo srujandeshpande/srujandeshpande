@@ -17,6 +17,8 @@ I'm Srujan, a Microsoft Learn Student Ambassador and perpetual learner. Check ou
 <p align="center">
 <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=srujandeshpande&theme=radical" alt="srujandeshpande" />  
 </p>
+<p align="center"><i>Streaks don't matter. The quality of your contributions matter.</i></p>
+
 <!--
 **srujandeshpande/srujandeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
