@@ -1,11 +1,11 @@
-## Hello there. Welcome to my Profile! 👋 
+## Hello there. I'm Srujan!
 <img src="https://komarev.com/ghpvc/?username=srujandeshpande&style=flat-square" alt="srujandeshpande" /><br>
 
-I'm Srujan, a Microsoft Learn Student Ambassador and perpetual learner. Check out my portfolio [here](https://srujandeshpande.github.io)!
+I'm a developer with a quest for learning new stuff. Check out my portfolio [here](https://srujandeshpande.github.io)!
 
-- 🔭  I love exploring Cloud Technologies and DevOps!
-- 🌱  I’m currently working with React, MongoDB, Django, Electron and Kubernetes. Have to say, Python and JavaScript are the best 😎
-- 💬 Ask me anything about Flask, FastAPI, MongoDB, DevOps, Blockchain and Google Cloud Platform
+- 🔭 I love working with the Cloud and DevOps
+- 🌱 Currently working as a Software Engineer Intern at Soroco
+- 💬 Sometimes I write about tech stuff. Check it on my [Medium](https://srujandeshpande.medium.com/)
 - 📫 How to reach me: Shoot me an email or connect on [Linkedin](https://linkedin.com/in/srujandeshpande)
 <br>
 <p align="center">
@@ -13,11 +13,11 @@ I'm Srujan, a Microsoft Learn Student Ambassador and perpetual learner. Check ou
 </p><br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujandeshpande&layout=compact&theme=radical" alt="srujandeshpande" />  
-</p><br>
-<p align="center">
+</p>
+<!-- <p align="center">
 <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=srujandeshpande&theme=radical" alt="srujandeshpande" />  
 </p>
-<p align="center"><i>Streaks don't matter. The quality of your contributions matter.</i></p>
+<p align="center"><i>Streaks don't matter. The quality of your contributions matter.</i></p> -->
 
 <!--
 **srujandeshpande/srujandeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
