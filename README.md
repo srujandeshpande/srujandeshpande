@@ -4,7 +4,7 @@
 I'm a developer with a quest for learning new stuff. Check out my portfolio [here](https://srujandeshpande.github.io)!
 
 - 🔭 I love working with the Cloud and DevOps
-- 🌱 Currently working as a Software Engineer Intern at Soroco
+- 🌱 Currently working as a Software Engineer at Soroco
 - 💬 Sometimes I write about tech stuff. Check it on my [Medium](https://srujandeshpande.medium.com/)
 - 📫 How to reach me: Shoot me an email or connect on [Linkedin](https://linkedin.com/in/srujandeshpande)
 <br>
